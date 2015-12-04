@@ -1,40 +1,47 @@
-BeerSmith 2 Recipe Printout - http://www.beersmith.com
-Recipe: Belle Saison Cider
-Brewer: 
-Asst Brewer: 
-Style: Common Cider
-TYPE: Extract
-Taste: (30.0) 
+Dry Hopped Saison Cider 
+Common Cider 
+Type: Extract Date: 11 Nov 2015 
+Batch Size (fermenter): 4.60 l Brewer:  
+Boil Size: -6.19 l Asst Brewer:  
+Boil Time: 60 min Equipment: Pot ( 3 Gal/11.4 L) - Extract 
+End of Boil Volume -7.03 l Brewhouse Efficiency: 72.00 % 
+Final Bottling Volume: 3.65 l Est Mash Efficiency 0.0 % 
+Fermentation: Ale, Single Stage Taste Rating(out of 50): 30.0 
+Taste Notes:  
+Ingredients
+ 
+Ingredients Amt Name Type # %/IBU 
+0.60 kg Sunrype Apple Juice 4L (1.0 SRM) Sugar 1 79.9 % 
+0.15 kg Brown Sugar, Light (8.0 SRM) Sugar 2 20.1 % 
+0.5 pkg Belle Saison Yeast 3 - 
+28.00 g Galaxy [14.00 %] - Dry Hop 3.0 Days Hop 4 0.0 IBUs 
 
-Recipe Specifications
---------------------------
-Boil Size: -6.19 l
-Post Boil Volume: -7.03 l
-Batch Size (fermenter): 4.60 l   
-Bottling Volume: 3.65 l
-Estimated OG: 1.062 SG
-Estimated Color: 3.4 SRM
-Estimated IBU: 0.0 IBUs
-Brewhouse Efficiency: 72.00 %
-Est Mash Efficiency: 0.0 %
-Boil Time: 60 Minutes
+ 
+Beer Profile
+ 
+Est Original Gravity: 1.062 SG Measured Original Gravity: 1.058 SG 
+Est Final Gravity: 0.986 SG Measured Final Gravity: 1.001 SG 
+Estimated Alcohol by Vol: 10.1 % Actual Alcohol by Vol: 7.5 % 
+Bitterness: 0.0 IBUs Calories: 531.0 kcal/l 
+Est Color: 3.4 SRM  
+Mash Profile
+ 
+Mash Name: Single Infusion, Light Body, No Mash Out Total Grain Weight: 0.75 kg 
+Sparge Water: -13.48 l Grain Temperature: 22.2 C 
+Sparge Temperature: 75.6 C Tun Temperature: 22.2 C 
+Adjust Temp for Equipment: TRUE Mash PH: 5.20 
 
-Ingredients:
-------------
-Amt                   Name                                     Type          #        %/IBU         
-0.60 kg               Sunrype Apple Juice 4L (1.0 SRM)         Sugar         1        79.9 %        
-0.15 kg               Brown Sugar, Light (8.0 SRM)             Sugar         2        20.1 %        
-0.5 pkg               Belle Saison                             Yeast         3        -             
-28.00 g               Galaxy [14.00 %] - Dry Hop 3.0 Days      Hop           4        0.0 IBUs      
-
-
-Mash Schedule: Single Infusion, Light Body, No Mash Out
-Total Grain Weight: 0.75 kg
-----------------------------
-
-Sparge: If steeping, remove grains, and prepare to boil wort
-Notes:
-------
+ 
+Sparge Step: If steeping, remove grains, and prepare to boil wort 
+Mash Notes: Simple single infusion mash for use with most modern well modified grains (about 95% of the time). 
+Carbonation and Storage
+ 
+Carbonation Type: Bottle Volumes of CO2: 2.3 
+Pressure/Weight: 21.49 g Carbonation Used: Bottle with 21.49 g Corn Sugar 
+Keg/Bottling Temperature: 21.1 C Age for: 30.00 days 
+Fermentation: Ale, Single Stage Storage Temperature: 18.3 C 
+Notes
+ 
 5Pitched at room temp
 Fermenting at ambient room temp ~ 22 deg
 OG 1.058
@@ -45,6 +52,7 @@ No nutrient or yeast energizer used
 2015-11-17 - Yeast still going strong. White bubbly 1" thin krauzen
 2015-11-18 - Refractometer reading 5.62 Brix - Corrected gravity (1.002)
 2015-11-25 - Refractometer reading 5.33 Brix - Corrected gravity (1.001) - Dry hopped 1 oz hops Galaxy
-
-Created with BeerSmith 2 - http://www.beersmith.com
--------------------------------------------------------------------------------------
+2015-11-29 - Placed into fridge to cold crash
+2015-11-30 - Bottled ~ 4L 3.0 CO2 volume - 1 oz table sugar 
+Created with BeerSmith
+ 
