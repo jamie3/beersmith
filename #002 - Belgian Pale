@@ -1,0 +1,71 @@
+BeerSmith 2 Recipe Printout - http://www.beersmith.com
+Recipe: #002 - Belgian Pale Ale (11L)
+Brewer: 
+Asst Brewer: 
+Style: Belgian Pale Ale
+TYPE: All Grain
+Taste: (30.0) 
+
+Recipe Specifications
+--------------------------
+Boil Size: 13.33 l
+Post Boil Volume: 11.44 l
+Batch Size (fermenter): 11.00 l   
+Bottling Volume: 11.00 l
+Estimated OG: 1.049 SG
+Estimated Color: 6.2 SRM
+Estimated IBU: 28.2 IBUs
+Brewhouse Efficiency: 72.00 %
+Est Mash Efficiency: 72.0 %
+Boil Time: 60 Minutes
+
+Ingredients:
+------------
+Amt                   Name                                     Type          #        %/IBU         
+2300.00 g             Pilsner (CMC) (2.0 SRM)                  Grain         1        95.8 %        
+100.00 g              Caramel Munich 60L (Briess) (60.0 SRM)   Grain         2        4.2 %         
+25.00 g               Goldings, East Kent [4.30 %] - Boil 60.0 Hop           3        27.0 IBUs     
+11.00 g               Goldings, East Kent [4.30 %] - Steep/Whi Hop           4        1.2 IBUs      
+1.0 pkg               Trappist High Gravity (slurry) (Wyeast L Yeast         5        -             
+
+
+Mash Schedule: BIAB, Light Body
+Total Grain Weight: 2400.00 g
+----------------------------
+Name              Description                             Step Temperat Step Time     
+Saccharification  Add 14.80 l of water at 155.0 F         147.5 F       90 min        
+Mash Out          Heat to 168.0 F over 7 min              168.0 F       10 min        
+
+Sparge: If steeping, remove grains, and prepare to boil wort
+Notes:
+------
+Wanted a mash of 149 but ended up at 147.5
+Put heat on low and mash temp went up to 150.
+Adjusted to around 149F most of the time.
+
+14.5L pre-boil volume. 1.046 OG. Added 1L which would have made it 13.5L. OG was 1.047 which makes no sense as that is an insane efficiency! ~92% mash efficiency.
+
+Measured preboil volume 11L. Topped up to 13L. I am getting a lot more grain absoprtion.
+
+
+
+Took ~30min to chill to 18.5C. Should have had more ice on hand as it would have been a lot shorter.
+
+1.062 Final OG at ~9L
+
+Topped up to 11L 1.050 OG
+
+Pitched slurry from Prototype #001 @ 18.0 C
+
+March 3, 2016 - Refractometer Reading 1.024. Adjusted 1.001. Must be wrong?
+
+March 6, 2016 - Yeast is nice and suttle. Not enough complexity. Bitterness seems balanced. Probably Caramel Munich not a good choice. Maybe try Belgian Aromatic.
+
+74.4g corn sugar added to primary, stirrered slowly and bottled from primary. No crash cooling.
+
+March 20, 2016 - Hydrometer reading 1.008. Strange smell. Bad taste. Yeast character and malt doesnt play well together.
+
+Bottled March 20, 2016
+
+Created with BeerSmith 2 - http://www.beersmith.com
+-------------------------------------------------------------------------------------
