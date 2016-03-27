@@ -1,0 +1,52 @@
+BeerSmith 2 Recipe Printout - http://www.beersmith.com
+Recipe: #005 - Imperial American Stout (5L)
+Brewer: 
+Asst Brewer: 
+Style: Imperial Stout
+TYPE: All Grain
+Taste: (30.0) 
+
+Recipe Specifications
+--------------------------
+Boil Size: 6.40 l
+Post Boil Volume: 5.31 l
+Batch Size (fermenter): 5.00 l   
+Bottling Volume: 5.00 l
+Estimated OG: 1.086 SG
+Estimated Color: 38.0 SRM
+Estimated IBU: 81.4 IBUs
+Brewhouse Efficiency: 65.00 %
+Est Mash Efficiency: 65.0 %
+Boil Time: 35 Minutes
+
+Ingredients:
+------------
+Amt                   Name                                     Type          #        %/IBU         
+1800.00 g             Pale Ale Malt (Rahr) (3.5 SRM)           Grain         1        80.0 %        
+300.00 g              Caramel Munich 60L (Briess) (60.0 SRM)   Grain         2        13.3 %        
+100.00 g              Pale Chocolate Malt (Thomas Fawcett) (18 Grain         3        4.4 %         
+50.00 g               Black (Patent) Malt (500.0 SRM)          Grain         4        2.2 %         
+12.00 g               Warrior [17.20 %] - First Wort 35.0 min  Hop           5        81.4 IBUs     
+0.26 Items            Whirlfloc Tablet (Boil 5.0 mins)         Fining        6        -             
+0.5 pkg               American West Coast Ale (Lallemand/Danst Yeast         7        -             
+
+
+Mash Schedule: BIAB, Medium Body
+Total Grain Weight: 2250.00 g
+----------------------------
+Name              Description                             Step Temperat Step Time     
+Saccharification  Add 6.28 l of water at 170.5 F          155.5 F       75 min        
+Mash Out          Heat to 168.0 F over 7 min              168.0 F       10 min        
+
+Sparge: If steeping, remove grains, and prepare to boil wort
+Notes:
+------
+Wanted a mash temp of 153 but ended up with 155.5. Probably best to keep it lower and bring up next time. 
+
+Added 200mL cold water to bring mash temp down.
+Final vol 4.5L
+
+Really low mash efficiency 59%.
+
+Created with BeerSmith 2 - http://www.beersmith.com
+-------------------------------------------------------------------------------------
