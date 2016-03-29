@@ -33,9 +33,9 @@ Amt                   Name                                     Type          #  
 Mash Schedule: BIAB, Medium Body
 Total Grain Weight: 1375.00 g
 ----------------------------
-Name              Description                             Step Temperat Step Time     
-Saccharification  Add 5.74 l of water at 162.6 F          152.1 F       75 min        
-Mash Out          Heat to 168.0 F over 7 min              168.0 F       10 min        
+Name                       Description                             Step Temperat Step Time     
+Saccharification           Add 5.74 l of water at 162.6 F          152.1 F       75 min        
+Mash Out                   Heat to 168.0 F over 7 min              168.0 F       10 min        
 
 Sparge: If steeping, remove grains, and prepare to boil wort
 Notes:
@@ -53,6 +53,9 @@ Measured OG: 1.055
 
 Pitched slurry Wyeast 3787 from previous batch. Dated March 1st. at 68F
 
+Measured FG: 1.013 from hydrometer
+
+2016-03-28 - Added 21.6 g corn sugar for bottling
 
 Created with BeerSmith 2 - http://www.beersmith.com
 -------------------------------------------------------------------------------------
