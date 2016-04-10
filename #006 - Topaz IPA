@@ -4,7 +4,7 @@ Brewer:
 Asst Brewer: 
 Style: American IPA
 TYPE: All Grain
-Taste: (30.0) 
+Taste: (30.0) 2016-04-04 - Taste after primary into keg. Lots of citrus. Pineapple. Mango. Grapefruit. Piney in the back of tongue. Fairly good malt backbone.
 
 Recipe Specifications
 --------------------------
@@ -30,14 +30,15 @@ Amt                   Name                                     Type          #  
 12.00 g               Topaz [17.80 %] - Boil 5.0 min           Hop           6        9.9 IBUs      
 42.00 g               Topaz [17.00 %] - Steep/Whirlpool  5.0 m Hop           7        16.5 IBUs     
 0.5 pkg               American West Coast Ale (Lallemand/Danst Yeast         8        -             
+56.00 g               Topaz [17.00 %] - Dry Hop 4.0 Days       Hop           9        0.0 IBUs      
 
 
 Mash Schedule: BIAB, Medium Body
 Total Grain Weight: 3350.00 g
 ----------------------------
-Name              Description                             Step Temperat Step Time     
-Saccharification  Add 12.14 l of water at 164.9 F         153.0 F       75 min        
-Mash Out          Heat to 168.0 F over 7 min              168.0 F       10 min        
+Name                       Description                             Step Temperat Step Time     
+Saccharification           Add 12.14 l of water at 164.9 F         153.0 F       75 min        
+Mash Out                   Heat to 168.0 F over 7 min              168.0 F       10 min        
 
 Sparge: If steeping, remove grains, and prepare to boil wort
 Notes:
@@ -47,6 +48,9 @@ PreBoil Vol 11L. Tooped up with 1L.
 Pitch 11g dry yeast at 61F. Did not rehydrate.
 
 Fermented at room temp ~16C.
+
+2016-03-29 - Dry hopped with 56g Topaz
+2016-04-04 - Kegged. FG 1.010. 
 
 Created with BeerSmith 2 - http://www.beersmith.com
 -------------------------------------------------------------------------------------
