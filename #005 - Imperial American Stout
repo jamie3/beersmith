@@ -4,7 +4,9 @@ Brewer:
 Asst Brewer: 
 Style: Imperial Stout
 TYPE: All Grain
-Taste: (30.0) 
+Taste: (30.0) 2016-04-04 - Sample from primary. Lots of toffee, chocolate, caramel. Probably used too much Caramel Munich. Very sweet. Suggest rolling it back to 5% or less. Add munich instead to dry it out more but keep the maltiness. Suggest adding roasted barley as well to add a bit of a stouty roasted edge.
+
+2016-04-10 - Opened first bottle. Pours dark, with fairly creamy head which dissipates after a bit. Smells of chocolate, but sweet. Faye detects strawberry, I detected vanilla. Balanced bitterness in the beginning but finishes very sweet in the back of the tongue. More desertish, not something you could drink a full pint of. Maybe try and sub chocolate malt with roasted malt to dry it out more and reduce the sweetness. I would say an overall good beer, but too much sweetness. It's not cloying, just overpowering with sweet caramels. Maybe reduce the caramel malts and swap chocolate with roasted barley.
 
 Recipe Specifications
 --------------------------
@@ -34,9 +36,9 @@ Amt                   Name                                     Type          #  
 Mash Schedule: BIAB, Medium Body
 Total Grain Weight: 2250.00 g
 ----------------------------
-Name              Description                             Step Temperat Step Time     
-Saccharification  Add 6.28 l of water at 170.5 F          155.5 F       75 min        
-Mash Out          Heat to 168.0 F over 7 min              168.0 F       10 min        
+Name                       Description                             Step Temperat Step Time     
+Saccharification           Add 6.28 l of water at 170.5 F          155.5 F       75 min        
+Mash Out                   Heat to 168.0 F over 7 min              168.0 F       10 min        
 
 Sparge: If steeping, remove grains, and prepare to boil wort
 Notes:
@@ -47,6 +49,8 @@ Added 200mL cold water to bring mash temp down.
 Final vol 4.5L
 
 Really low mash efficiency 59%.
+
+2016-04-04 - Carbed with 18g corn sugar.
 
 Created with BeerSmith 2 - http://www.beersmith.com
 -------------------------------------------------------------------------------------
