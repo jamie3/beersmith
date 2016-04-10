@@ -1,5 +1,5 @@
 BeerSmith 2 Recipe Printout - http://www.beersmith.com
-Recipe: #007 - Czech Pilsner Budvar (5L)
+Recipe: #007 - Czech Pilsner Budvar (23L)
 Brewer: 
 Asst Brewer: 
 Style: Bohemian Pilsner
@@ -12,31 +12,31 @@ Boil Size: 6.40 l
 Post Boil Volume: 4.53 l
 Batch Size (fermenter): 5.00 l   
 Bottling Volume: 5.00 l
-Estimated OG: 1.050 SG
+Estimated OG: 1.047 SG
 Estimated Color: 4.6 SRM
-Estimated IBU: 40.2 IBUs
-Brewhouse Efficiency: 68.00 %
-Est Mash Efficiency: 68.0 %
+Estimated IBU: 40.9 IBUs
+Brewhouse Efficiency: 55.00 %
+Est Mash Efficiency: 55.0 %
 Boil Time: 60 Minutes
 
 Ingredients:
 ------------
 Amt                   Name                                     Type          #        %/IBU         
-1100.00 g             Pilsen Malt 2-Row (CMC) (1.0 SRM)        Grain         1        92.4 %        
-55.00 g               Melanoidin (BestMÃ¤lz) (35.5 SRM)         Grain         2        4.6 %         
-35.00 g               Carafoam (2.0 SRM)                       Grain         3        2.9 %         
-25.00 g               Saaz [3.20 %] - Boil 30.0 min            Hop           4        34.4 IBUs     
+1300.00 g             Pilsen Malt 2-Row (CMC) (1.0 SRM)        Grain         1        93.5 %        
+46.71 g               Melanoidin (BestMÃ¤lz) (35.5 SRM)         Grain         2        3.4 %         
+43.93 g               Carafoam (2.0 SRM)                       Grain         3        3.2 %         
+25.00 g               Saaz [3.20 %] - Boil 30.0 min            Hop           4        35.0 IBUs     
 0.25 Items            Whirlfloc Tablet (Boil 15.0 mins)        Fining        5        -             
-7.00 g                Saaz [3.20 %] - Boil 10.0 min            Hop           6        4.5 IBUs      
-7.00 g                Saaz [3.20 %] - Steep/Whirlpool  5.0 min Hop           7        1.2 IBUs      
+7.00 g                Saaz [3.20 %] - Boil 10.0 min            Hop           6        4.6 IBUs      
+7.00 g                Saaz [3.20 %] - Steep/Whirlpool  5.0 min Hop           7        1.3 IBUs      
 1.0 pkg               Budvar Lager (Wyeast Labs #2000) [124.21 Yeast         8        -             
 
 
 Mash Schedule: BIAB, Pilsner Step Mash
-Total Grain Weight: 1190.00 g
+Total Grain Weight: 1390.64 g
 ----------------------------
 Name                       Description                             Step Temperat Step Time     
-Protein Rest               Add 6.13 l of water at 125.5 F          120.0 F       10 min        
+Protein Rest               Add 6.25 l of water at 126.0 F          120.0 F       10 min        
 Saccharification 1         Add -0.00 l of water and heat to 149.0  149.0 F       30 min        
 Mash Out                   Heat to 172.4 F over 6 min              172.4 F       10 min        
 
