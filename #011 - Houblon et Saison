@@ -1,0 +1,58 @@
+BeerSmith 2 Recipe Printout - http://www.beersmith.com
+Recipe: #011 - Houblon et Saison
+Brewer: Jamie
+Asst Brewer: 
+Style: Belgian Specialty Ale
+TYPE: All Grain
+Taste: (30.0) 
+
+Recipe Specifications
+--------------------------
+Boil Size: 33.28 l
+Post Boil Volume: 28.08 l
+Batch Size (fermenter): 23.00 l   
+Bottling Volume: 21.30 l
+Estimated OG: 1.061 SG
+Estimated Color: 3.6 SRM
+Estimated IBU: 49.7 IBUs
+Brewhouse Efficiency: 70.00 %
+Est Mash Efficiency: 82.8 %
+Boil Time: 60 Minutes
+
+Ingredients:
+------------
+Amt                   Name                                     Type          #        %/IBU         
+5000.00 g             Pilsner (2 row) (CMC) (1.6 SRM)          Grain         1        79.5 %        
+750.00 g              Vienna (BestMÃ¤lz) (4.1 SRM)              Grain         2        11.9 %        
+250.00 g              Wheat Malt, Pale (Weyermann) (2.0 SRM)   Grain         3        4.0 %         
+100.00 g              Acidulated (Weyermann) (1.8 SRM)         Grain         4        1.6 %         
+10.00 g               Warrior [17.00 %] - First Wort 60.0 min  Hop           5        17.6 IBUs     
+190.00 g              Corn Sugar (Dextrose) (0.0 SRM)          Sugar         6        3.0 %         
+1.00 Items            Whirlfloc Tablet (Boil 15.0 mins)        Fining        7        -             
+1.00 tsp              Yeast Nutrient (Boil 15.0 mins)          Other         8        -             
+56.00 g               Centennial [8.40 %] - Boil 10.0 min      Hop           9        16.1 IBUs     
+56.00 g               Centennial [8.40 %] - Steep/Whirlpool  1 Hop           10       8.0 IBUs      
+56.00 g               Centennial [8.40 %] - Steep/Whirlpool  1 Hop           11       8.0 IBUs      
+1.0 pkg               Belgian Saison II Yeast (White Labs #WLP Yeast         12       -             
+84.00 g               Centennial [8.40 %] - Dry Hop 4.0 Days   Hop           13       0.0 IBUs      
+
+
+Mash Schedule: Single Infusion, Light Body, Batch Sparge
+Total Grain Weight: 6290.00 g
+----------------------------
+Name                       Description                             Step Temperat Step Time     
+Mash In                    Add 18.01 l of water at 157.8 F         148.0 F       75 min        
+
+Sparge: Batch sparge with 2 steps (5.79l, 17.69l) of 168.0 F water
+Notes:
+------
+- 50/50 RO + Tap water with campden tablet
+- 4g CaCl + 2g gypsum into mash
+- Forgot to measure pre-boil gravity
+- Added 190g dextrose two days after pitching yeast
+- Fermentation held ~20.5C
+- Second Gen WLP 566 Pitched slurry from batch #010
+- 120g table sugar to 20L beer 2.4 volumes
+
+Created with BeerSmith 2 - http://www.beersmith.com
+-------------------------------------------------------------------------------------
