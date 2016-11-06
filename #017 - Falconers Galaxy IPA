@@ -4,17 +4,33 @@ Brewer:
 Asst Brewer: 
 Style: American IPA
 TYPE: All Grain
-Taste: (30.0) 
+Taste: (30.0) Oct 27
+-------------------------------------
+Smells of peaches, mango, pineapple
+Punchy, Juicy, Peach, Mango, Orange, Malty
+Smooth bitterness
+Maybe consider reducing Munich malt down to 10% to reduce a bit of the malt?
+
+Nov 6
+-------------------------------------
+Aroma: Pineapple, orange, mango. No detectable flaws. 10/12
+Appearance: Orange with golden hues. Foamy head. Very clear for a super hoppy IPA. Especially bottle conditioned. 3/3
+Flavour: Bitterness is a slightly harsh, could be water, or just high IBU to ABV ratio? Citrus. Creamsicle. Malt at the very end. Slightly grassy sometimes. 16/20
+Mouthfeel: A little thin. Malt doesnâ€™t accentuate as much as it should. Itâ€™s almost there but not quite. I wouldnâ€™t add too much more malt. 3/5
+Overall Impression: This is really on the small end of a double IPA. The hops are clean, but I think it could use a bit more malt kick, it really is a good baseline for a DIPA. Overall its a kickass IPA. Definitely to be brewed again.
+8/10
+
+Score: 40/50
 
 Recipe Specifications
 --------------------------
-Boil Size: 19.35 l
-Post Boil Volume: 15.60 l
+Boil Size: 19.38 l
+Post Boil Volume: 15.62 l
 Batch Size (fermenter): 15.00 l   
 Bottling Volume: 13.30 l
 Estimated OG: 1.067 SG
 Estimated Color: 7.9 SRM
-Estimated IBU: 104.2 IBUs
+Estimated IBU: 104.3 IBUs
 Brewhouse Efficiency: 67.00 %
 Est Mash Efficiency: 67.0 %
 Boil Time: 75 Minutes
@@ -35,6 +51,8 @@ Amt                   Name                                     Type          #  
 56.00 g               Falconer's Flight [11.00 %] - Steep/Whir Hop           11       18.5 IBUs     
 56.00 g               Galaxy [14.00 %] - Steep/Whirlpool  10.0 Hop           12       23.6 IBUs     
 1.0 pkg               Safale American  (DCL/Fermentis #US-05)  Yeast         13       -             
+56.00 g               Falconer's Flight [11.00 %] - Dry Hop 3. Hop           14       0.0 IBUs      
+56.00 g               Galaxy [14.00 %] - Dry Hop 3.0 Days      Hop           15       0.0 IBUs      
 
 
 Mash Schedule: Single Infusion, Medium Body, Batch Sparge
@@ -43,7 +61,7 @@ Total Grain Weight: 4920.00 g
 Name                       Description                             Step Temperat Step Time     
 Mash In                    Add 14.93 l of water at 162.3 F         151.0 F       60 min        
 
-Sparge: Batch sparge with 2 steps (0.72l, 10.72l) of 168.0 F water
+Sparge: Batch sparge with 2 steps (0.73l, 10.74l) of 168.0 F water
 Notes:
 ------
 Mash
@@ -54,6 +72,10 @@ Collected 7L from mash 1.072 Refractometer
 Collected 11L from sparge 1.040 Refractometer
 Dumped 2L from sparge
 
+Dry Hop (3 Days) - Oct 16
+-------------------------------------
+56 g Falconers Flight
+56 g Galaxy
 
 
 Created with BeerSmith 2 - http://www.beersmith.com
