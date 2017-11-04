@@ -1,0 +1,100 @@
+BeerSmith 2 Recipe Printout - http://www.beersmith.com
+Recipe: #032 - Fruit Juice Smoothie DIPA #2
+Brewer: 
+Asst Brewer: 
+Style: Double IPA
+TYPE: All Grain
+Taste: (30.0) 
+
+Recipe Specifications
+--------------------------
+Boil Size: 32.13 l
+Post Boil Volume: 28.13 l
+Batch Size (fermenter): 25.00 l   
+Bottling Volume: 23.00 l
+Estimated OG: 1.076 SG
+Estimated Color: 8.0 SRM
+Estimated IBU: 121.2 IBUs
+Brewhouse Efficiency: 60.00 %
+Est Mash Efficiency: 64.8 %
+Boil Time: 60 Minutes
+
+Ingredients:
+------------
+Amt                   Name                                     Type          #        %/IBU         
+43.50 l               DIPA (Bitter)                            Water         1        -             
+10.00 g               Gypsum (Calcium Sulfate) (Mash 60.0 mins Water Agent   2        -             
+8.00 g                Epsom Salt (MgSO4) (Mash 60.0 mins)      Water Agent   3        -             
+4.00 g                Calcium Chloride (Mash 60.0 mins)        Water Agent   4        -             
+0.50 g                Salt (Mash 60.0 mins)                    Water Agent   5        -             
+8.10 kg               Pale Malt, 2-Row (Rahr) (1.8 SRM)        Grain         6        80.6 %        
+0.80 kg               Munich 20L (Briess) (20.0 SRM)           Grain         7        8.0 %         
+0.35 kg               Crystal 15, 2-Row, (Great Western) (15.0 Grain         8        3.5 %         
+0.20 kg               Acid Malt (3.0 SRM)                      Grain         9        2.0 %         
+0.20 kg               Carafoam (2.0 SRM)                       Grain         10       2.0 %         
+0.40 kg               Sugar, Table (Sucrose) (1.0 SRM)         Sugar         11       4.0 %         
+55.00 g               Citra [14.30 %] - Boil 60.0 min          Hop           12       65.0 IBUs     
+1.00 Items            Irish Moss (Boil 15.0 mins)              Fining        13       -             
+112.00 g              Amarillo [7.00 %] - Boil 15.0 min        Hop           14       32.2 IBUs     
+1.00 tsp              Yeast Nutrient (Boil 15.0 mins)          Other         15       -             
+112.00 g              Citra [14.30 %] - Steep/Whirlpool  10.0  Hop           16       24.0 IBUs     
+2.0 pkg               Safale American  (DCL/Fermentis #US-05)  Yeast         17       -             
+75.00 g               Amarillo [7.00 %] - Dry Hop 3.0 Days     Hop           18       0.0 IBUs      
+75.00 g               Citra [14.30 %] - Dry Hop 3.0 Days       Hop           19       0.0 IBUs      
+
+
+Mash Schedule: Single Infusion, Medium Body, Batch Sparge
+Total Grain Weight: 10.05 kg
+----------------------------
+Name                       Description                             Step Temperat Step Time     
+Mash In                    Add 27.59 l of water at 161.5 F         151.0 F       60 min        
+
+Sparge: Batch sparge with 2 steps (Drain mash tun , 16.06l) of 168.0 F water
+Notes:
+------
+http://beerandwinejournal.com/two-water-guides/
+http://beersmith.com/blog/2016/02/11/the-sulfate-to-chloride-ratio-and-beer-bitterness/
+https://sites.google.com/site/brunwater/
+http://beersmith.com/blog/2016/02/23/residual-alkalinity-and-ph-for-all-grain-beer-brewing/
+http://homebrewmanual.com/residual-alkalinity-brewing-water/
+
+DIPA IPA Profile
+15L Calgary Glennmore
+30L RO
+
+Water Calculated
+â€”â€”â€”â€”â€”â€”â€”â€”â€”
+Water additions to full volume 43.65L - ppm for mash+sparge
+Ca = 96 ppm
+Mg = 22.9 ppm
+Na = 7.2 ppm
+SO4 = 213.3 ppm
+Cl = 52.8 ppm
+HCO3 = 47.3 ppm
+
+RA = -43
+Sulfate/Chloride Ratio = 4.0
+Color = 2-6 SRM
+Eff Hardness = 82 ppm
+Alkalinity = 39 ppm
+
+
+Added 12mL lactic acid
+Mash Measured Ph: 5.10
+
+(TODO) Trub loss was probably around 4L not 2L as entered in the brewhouse calculations
+
+Day 0:
+- OG: 1.070 (without sugar)
+- Pitched 1.5L starter from 1st gen at 68F
+- Raised temp to 18.5C
+
+Day 1:
+- Raised temp to 19C
+
+Day 2:
+- Raised temp to 20C
+- Pitched 400g table sugar
+
+Created with BeerSmith 2 - http://www.beersmith.com
+-------------------------------------------------------------------------------------
