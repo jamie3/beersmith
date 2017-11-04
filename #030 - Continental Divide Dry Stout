@@ -1,0 +1,59 @@
+BeerSmith 2 Recipe Printout - http://www.beersmith.com
+Recipe: #030 - CDDS (Continential Divide Dry Stout)
+Brewer: 
+Asst Brewer: 
+Style: Irish Stout
+TYPE: All Grain
+Taste: (30.0) Could use some more creaminess. Maybe add some flaked barley?
+
+Recipe Specifications
+--------------------------
+Boil Size: 28.54 l
+Post Boil Volume: 26.04 l
+Batch Size (fermenter): 21.00 l   
+Bottling Volume: 19.30 l
+Estimated OG: 1.042 SG
+Estimated Color: 36.2 SRM
+Estimated IBU: 38.7 IBUs
+Brewhouse Efficiency: 70.00 %
+Est Mash Efficiency: 83.3 %
+Boil Time: 60 Minutes
+
+Ingredients:
+------------
+Amt                   Name                                     Type          #        %/IBU         
+21.00 l               Calgary Glenmore                         Water         1        -             
+3.60 kg               Pale Malt, Maris Otter (Thomas Fawcett)  Grain         2        86.7 %        
+0.45 kg               Roasted Barley (Red Shed) (600.0 SRM)    Grain         3        10.9 %        
+0.10 kg               Chocolate Malt (Red Shed) (300.0 SRM)    Grain         4        2.4 %         
+57.50 g               Golding, U.S. [5.30 %] - Boil 60.0 min   Hop           5        34.7 IBUs     
+2.00 g                Warrior [17.30 %] - Boil 60.0 min        Hop           6        3.9 IBUs      
+1.00 tsp              Irish Moss (Boil 15.0 mins)              Fining        7        -             
+1.00 tsp              Yeast Nutrient (Boil 15.0 mins)          Other         8        -             
+1.0 pkg               Safale American  (DCL/Fermentis #US-05)  Yeast         9        -             
+
+
+Mash Schedule: Single Infusion, Medium Body, Batch Sparge
+Total Grain Weight: 4.15 kg
+----------------------------
+Name                       Description                             Step Temperat Step Time     
+Mash In                    Add 14.33 l of water at 160.8 F         152.0 F       60 min        
+
+Sparge: Batch sparge with 2 steps (5.85l, 16.02l) of 168.0 F water
+Notes:
+------
+https://www.bjcp.org/docs/2015_Guidelines_Beer.pdf
+https://byo.com/body/item/1674-style-profile
+
+Measured Mash temp 152
+Added 3.5mL lactic acid
+Measured Mash pH 5.36
+Added 4.6 mL lactic acid sparge
+Measured Sparge pH 5.00
+
+Ferment 18.5C day 1
+Ferment 19.0C day 3
+Ferment 19.8C day 4
+
+Created with BeerSmith 2 - http://www.beersmith.com
+-------------------------------------------------------------------------------------
